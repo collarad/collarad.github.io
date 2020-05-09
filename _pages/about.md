@@ -14,12 +14,13 @@ My Ph.D. gives me enough expertise to solve complex problems in enterprises such
 Java, Scala, Python, Tensorflow, Pytorch, and Play Framework specialist
 Strong communication skills in English, Spanish, French, and German. I am a natural team player.
 
+# Leading Roles
+  * Fraunhofer IAIS, [link](https://www.iais.fraunhofer.de/en/institute/dresden.html "Dresden Lab"), Data Management for Conversational Agents.
+  * Semantic Data Management Group at the [link](https://sda.tech/ "Smart Data Analytics Group").
+
 # Research Interests
   * Conversational A.I.
   * Knowledge Graphs
 
-# Leading Roles
-  * Fraunhofer IAIS, Dresden Lab, Data Management for Conversational Agents.
-  * Semantic Data Management Group at the Smart Data Analytics Group of the University of Bonn.
 
 
