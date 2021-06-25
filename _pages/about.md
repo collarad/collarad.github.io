@@ -16,7 +16,8 @@ Strong communication skills in English, Spanish, French, and German.
 I am a natural team player.
 
 # Leading Roles
-  * Fraunhofer IAIS, [Dresden Lab](https://www.iais.fraunhofer.de/en/institute/dresden.html "Dresden Lab"), Data Management for Conversational Agents.
+  * Institute for Computational Intelligence, [Universidad Privada Boliviana](http://ici.upb.edu/ "ICI"), Director of the institute.
+  * Fraunhofer IAIS, [Dresden Lab](https://www.iais.fraunhofer.de/en/institute/dresden.html "Dresden Lab"), Group Leader and Competency Area Expert Knowledge Graphs for Conversational AAI.
   * Semantic Data Management Group at the [Smart Data Analytics Group](https://sda.tech/ "SDA").
 
 # Research Interests
