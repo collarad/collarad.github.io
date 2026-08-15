@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download my [CV]("http://collarad.github.io/files/CV.pdf").
+Download a compact version (2 pages) from this [link]("../files/CV.pdf").
