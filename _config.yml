@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Diego Collarana / Ph.D."
+title                    : "Dr. Diego Collarana"
 title_separator          : "-"
 name                     : &name "Diego Collarana"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "collarad"
   avatar           : "profile.png"
-  bio              : "Enterprise Knowledge Graphs and Deep Learning specialist | Senior Research Engineer and Project Leader Fraunhofer IAIS"
-  location         : "Dresnden, Germany"
+  bio              : "Neuro-Symbolic AI Specialist | Senior Research Engineer and Team Leader at Fraunhofer FIT"
+  location         : "Dresden, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NZd8PzsAAAAJ&hl=de&oi=ao"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : www.linkedin.com/in/diego-collarana
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : #http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/collarad"
+  twitter          : "https://x.com/collarad"
   vine             :
   weibo            :
   xing             :
