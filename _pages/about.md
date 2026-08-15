@@ -30,5 +30,6 @@ I lead the conceptualization, design, and development of AI conversational assis
   * Conversational AI
   * Mechanic Interpretability for Foundation Models
 
+CV in PDF: [Two-Pager]("http://collarad.github.io/files/CV.pdf" "CV")
 
 
