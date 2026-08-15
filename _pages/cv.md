@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Download a compact version (2 pages) from this [link]("http://collarad.github.io/files/minte/minte.html").
+Download a compact version (2 pages) from this [link]("http://collarad.github.io/files/CV.pdf").
